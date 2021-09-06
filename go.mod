@@ -1,4 +1,4 @@
-module git.miangie.dev/query_suggestions
+module github.com/Miangie/Golang-Query-Suggestions-Test
 
 go 1.16
 
